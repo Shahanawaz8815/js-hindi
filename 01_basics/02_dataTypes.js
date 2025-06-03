@@ -20,7 +20,7 @@ let isLoggedIn=false //boolean datatype
 //number datatype 2 to the powe 53 
 //bigint 2 to the power 63
 //String datatype => "" ,'' to define string use both
-//boolean datatype => true/false
+//boolean datatype => true/false 
 
 //null => Standalone value 
 
